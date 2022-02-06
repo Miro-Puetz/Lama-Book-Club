@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lama-Book-Club/static/css/main.7e521260.css",
-    "main.js": "/Lama-Book-Club/static/js/main.87a4832d.js",
+    "main.js": "/Lama-Book-Club/static/js/main.cb1da05f.js",
     "static/js/787.c3760bdd.chunk.js": "/Lama-Book-Club/static/js/787.c3760bdd.chunk.js",
     "index.html": "/Lama-Book-Club/index.html",
     "main.7e521260.css.map": "/Lama-Book-Club/static/css/main.7e521260.css.map",
-    "main.87a4832d.js.map": "/Lama-Book-Club/static/js/main.87a4832d.js.map",
+    "main.cb1da05f.js.map": "/Lama-Book-Club/static/js/main.cb1da05f.js.map",
     "787.c3760bdd.chunk.js.map": "/Lama-Book-Club/static/js/787.c3760bdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e521260.css",
-    "static/js/main.87a4832d.js"
+    "static/js/main.cb1da05f.js"
   ]
 }
