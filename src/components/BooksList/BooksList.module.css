@@ -1,0 +1,15 @@
+.card {
+  background-color: white;
+  margin: 1rem auto;
+  width: 70%;
+  max-width: 50rem;
+}
+.card ul {
+  list-style-type: none;
+  padding: 0.1rem 1rem 1rem 1rem;
+}
+
+h2 {
+  padding: 1rem 0 0 1rem;
+  margin-bottom: 0;
+}

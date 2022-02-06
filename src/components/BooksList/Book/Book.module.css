@@ -1,0 +1,72 @@
+.book {
+  border: 2px solid #ccc;
+  margin-bottom: 0.5rem;
+  padding: 0.4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.book a {
+  color: black;
+  text-decoration: none;
+}
+
+.book a:visited {
+  color: black;
+}
+
+.stats {
+  width: 40%;
+  margin: 0 0 1rem 1rem;
+}
+
+.title {
+  margin-bottom: 0.5rem;
+}
+
+.author {
+  margin-bottom: 3rem;
+}
+
+.controls {
+  margin: 0 1rem 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 10%;
+}
+
+.rating-buttons {
+  padding: 1rem;
+}
+
+.up {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid #40c0b3;
+  margin-bottom: 1rem;
+}
+
+.down {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #e26b40;
+}
+
+.up:hover {
+  border-bottom: 20px solid #009e8e;
+}
+
+.down:hover {
+  border-top: 20px solid #e23c00;
+}
+
+.controls label {
+  font-size: larger;
+  margin: 1rem;
+}
